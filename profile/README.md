@@ -4,9 +4,9 @@
 
 ### Demos over memos.
 
-A community of AI craftspeople in Phoenix, Tempe & Chandler, live builds, lightning demos, and Socratic discussion.
+A community of AI craftspeople in Phoenix & Tempe, live builds, lightning demos, and Socratic discussion.
 
-[Website](https://www.shipai.club) | [Meetup](https://www.meetup.com/ship-ai/) | [Luma](https://luma.com/shipai) | [Discord](https://discord.gg/kZSJMNveYM) | [Events board](https://github.com/orgs/Ship-AI-Club/projects/1/views/1)
+[Website](https://www.shipai.club) | [Meetup](https://www.meetup.com/shipai/) | [Luma](https://luma.com/shipai) | [Discord](https://discord.gg/kZSJMNveYM) | [Events board](https://github.com/orgs/Ship-AI-Club/projects/1/views/1)
 
 </div>
 
@@ -40,6 +40,6 @@ The [slides](https://github.com/Ship-AI-Club/slides) repo holds talk decks and b
 
 [shipai.club](https://www.shipai.club) is the website.
 
-[Meetup](https://www.meetup.com/ship-ai/) and [Luma](https://luma.com/shipai) are where you RSVP for the next Socratic Night.
+[Meetup](https://www.meetup.com/shipai/) and [Luma](https://luma.com/shipai) are where you RSVP for the next Socratic Night.
 
 [Discord](https://discord.gg/kZSJMNveYM) is where the community chats between events.
